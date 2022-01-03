@@ -2,7 +2,7 @@
   "name": "BOTZ17",
   "version": "0.0.2",
   "description": "No comment",
-  "main": "index.js",
+  "main": "node index",
   "directories": {
     "lib": "lib"
   },
